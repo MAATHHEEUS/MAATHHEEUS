@@ -33,8 +33,8 @@ Sistema de banco digital. Tecnologias utilizadas: ![PHP](https://img.shields.io/
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/devmatheus-carvalho-oliveira/)
 - **WhatsApp:** [+55 11 97420-0390](https://wa.me/5511974200390)
 
-## 💻 Minhas Estatísticas no GitHub
+## 🚀 Contribuições Recentes
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MAATHHEEUS&show_icons=true&theme=tokyonight)
+![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=MAATHHEEUS&theme=tokyonight)
 
 ---
